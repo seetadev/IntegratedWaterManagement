@@ -1,0 +1,11 @@
+1. git clone https://github.com/XeroAPI/xero-node-sample-app
+2. npm install 
+3. replace the /config/example_config.json with following code
+   {
+  	"appType" : "public",
+  	"consumerKey": "R0HLFEP382EAABGXNZ6ASAEBQPNIQL",
+  	"consumerSecret": "7AZLVSHEUPZ8AE3H5TMGTPUXYGLBRI",
+  	"callbackUrl": "http://localhost:3100/access"
+   }
+   and save the file as config.json
+4. node index.js

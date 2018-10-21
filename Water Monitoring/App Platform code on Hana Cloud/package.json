@@ -1,0 +1,27 @@
+{
+  "name": "xero-node-sample-app",
+  "version": "0.0.1",
+  "description": "Sample application for the xero-node library.",
+  "main": "index.js",
+  "repository": "git@github.com:XeroAPI/xero-node-sample-app.git",
+  "author": "Jordan Walsh <jordan.walsh@.xero.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^6.3.1",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-flash-messages": "^0.1.1",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.5",
+    "morgan": "^1.9.0",
+    "ringcentral": "^3.2.0",
+    "xero-node": "^3.0.0-alpha.10",
+    "yarn": "^1.9.4"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  }
+}
