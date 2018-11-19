@@ -1,6 +1,10 @@
 # IntegratedWaterManagement
 Remote Water Monitoring, Sewage Management, Quality Assurance and Recyclability of Water
 
+Website: https://sites.google.com/view/integratedwatermanagment/home
+
+Demo: https://sites.google.com/view/integratedwatermanagment/demo
+
 The Issue: Remote water monitoring systems have not been used effectively in emerging countries. We got motivated to recycle and use old phones and tablets, used devices like computers on providing remote water monitoring facility to prevent havoc in case of hurricanes, excessive rainfall. Chennai floods in 2015 has made it all the more urgent to design, develop and deploy such systems cost effectively.
 
 Vision: Our vision is to carry out research on new models that incorporate technology and which aims at revolutionizing the water management practices around the world . The technology solution is designed specifically to address the needs of the water, health and environment eco-system comprising of civic bodies, water management units, hospitals, environment and health ministry, laboratories, citizens, R&D organizations and improve the operational efficiencies.
